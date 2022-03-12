@@ -1,0 +1,3 @@
+2022-01-15 16:15:50,360 INFO [root] [time_log.py  (<module>:23)] - info
+2022-01-15 16:29:06,519 INFO [root] [logger.py  (<module>:27)] - info信息被执行
+2022-01-15 16:30:12,102 INFO [root] [logger.py  (<module>:30)] - info信息被执行

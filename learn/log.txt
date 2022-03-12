@@ -1,0 +1,5 @@
+2022-01-15 14:24:52,493 DEBUG [root] [test_logging.py  (<module>:10)] - 调试信息
+2022-01-15 14:24:52,494 INFO [root] [test_logging.py  (<module>:11)] - 普通信息
+2022-01-15 14:24:52,494 WARNING [root] [test_logging.py  (<module>:12)] - 警告信息
+2022-01-15 14:24:52,495 ERROR [root] [test_logging.py  (<module>:13)] - 错误信息
+2022-01-15 14:24:52,495 CRITICAL [root] [test_logging.py  (<module>:14)] - 严重错误

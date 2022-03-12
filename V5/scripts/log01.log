@@ -1,0 +1,41 @@
+2022-01-15 16:45:19,898 INFO [root] [base.py  (__init__:13)] - 初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="0d98e76855231a46f60128a710a9d090")>
+2022-01-15 16:45:19,898 INFO [root] [base.py  (base_click:38)] - 元素('link text', '注册')执行点击
+2022-01-15 16:45:19,899 INFO [root] [base.py  (base_find_element:27)] - 查找元素('link text', '注册')
+2022-01-15 16:45:20,159 INFO [root] [base.py  (base_find_element:27)] - 查找元素('id', 'username')
+2022-01-15 16:45:20,209 INFO [root] [base.py  (base_input:45)] - 元素('id', 'username')清空
+2022-01-15 16:45:20,284 INFO [root] [base.py  (base_input:48)] - 向元素('id', 'username')输入xiongmao
+2022-01-15 16:45:20,285 INFO [root] [base.py  (base_find_element:27)] - 查找元素('id', 'password')
+2022-01-15 16:45:20,323 INFO [root] [base.py  (base_input:45)] - 元素('id', 'password')清空
+2022-01-15 16:45:20,378 INFO [root] [base.py  (base_input:48)] - 向元素('id', 'password')输入123456
+2022-01-15 16:45:20,378 INFO [root] [base.py  (base_find_element:27)] - 查找元素('id', 'confirm-password')
+2022-01-15 16:45:20,418 INFO [root] [base.py  (base_input:45)] - 元素('id', 'confirm-password')清空
+2022-01-15 16:45:20,476 INFO [root] [base.py  (base_input:48)] - 向元素('id', 'confirm-password')输入123456
+2022-01-15 16:45:20,476 INFO [root] [base.py  (base_find_element:27)] - 查找元素('id', 'email')
+2022-01-15 16:45:20,517 INFO [root] [base.py  (base_input:45)] - 元素('id', 'email')清空
+2022-01-15 16:45:20,551 INFO [root] [base.py  (base_input:48)] - 向元素('id', 'email')输入
+2022-01-15 16:45:20,552 INFO [root] [base.py  (base_click:38)] - 元素('css selector', "button[class='btn btn-info text-white form-control")执行点击
+2022-01-15 16:45:20,552 INFO [root] [base.py  (base_find_element:27)] - 查找元素('css selector', "button[class='btn btn-info text-white form-control")
+2022-01-15 16:45:20,708 INFO [root] [base.py  (base_get_text:52)] - 获取元素('xpath', '//form/div[1]/div/div')文本
+2022-01-15 16:45:20,709 INFO [root] [base.py  (base_find_element:27)] - 查找元素('xpath', '//form/div[1]/div/div')
+2022-01-15 16:45:20,758 INFO [root] [base.py  (base_get_text:52)] - 获取元素('xpath', '//form/div[4]/div/div')文本
+2022-01-15 16:45:20,758 INFO [root] [base.py  (base_find_element:27)] - 查找元素('xpath', '//form/div[4]/div/div')
+2022-01-15 16:45:20,787 INFO [root] [test_register.py  (test_Register:53)] - 邮箱不能为空！
+2022-01-15 16:45:20,790 INFO [root] [base.py  (base_find_element:27)] - 查找元素('id', 'username')
+2022-01-15 16:45:20,833 INFO [root] [base.py  (base_input:45)] - 元素('id', 'username')清空
+2022-01-15 16:45:20,901 INFO [root] [base.py  (base_input:48)] - 向元素('id', 'username')输入xiongmao
+2022-01-15 16:45:20,901 INFO [root] [base.py  (base_find_element:27)] - 查找元素('id', 'password')
+2022-01-15 16:45:20,949 INFO [root] [base.py  (base_input:45)] - 元素('id', 'password')清空
+2022-01-15 16:45:21,010 INFO [root] [base.py  (base_input:48)] - 向元素('id', 'password')输入123456
+2022-01-15 16:45:21,010 INFO [root] [base.py  (base_find_element:27)] - 查找元素('id', 'confirm-password')
+2022-01-15 16:45:21,061 INFO [root] [base.py  (base_input:45)] - 元素('id', 'confirm-password')清空
+2022-01-15 16:45:21,114 INFO [root] [base.py  (base_input:48)] - 向元素('id', 'confirm-password')输入123456
+2022-01-15 16:45:21,114 INFO [root] [base.py  (base_find_element:27)] - 查找元素('id', 'email')
+2022-01-15 16:45:21,149 INFO [root] [base.py  (base_input:45)] - 元素('id', 'email')清空
+2022-01-15 16:45:21,217 INFO [root] [base.py  (base_input:48)] - 向元素('id', 'email')输入1262912010@qq.com
+2022-01-15 16:45:21,217 INFO [root] [base.py  (base_click:38)] - 元素('css selector', "button[class='btn btn-info text-white form-control")执行点击
+2022-01-15 16:45:21,217 INFO [root] [base.py  (base_find_element:27)] - 查找元素('css selector', "button[class='btn btn-info text-white form-control")
+2022-01-15 16:45:21,370 INFO [root] [base.py  (base_get_text:52)] - 获取元素('xpath', '//form/div[1]/div/div')文本
+2022-01-15 16:45:21,371 INFO [root] [base.py  (base_find_element:27)] - 查找元素('xpath', '//form/div[1]/div/div')
+2022-01-15 16:45:21,400 INFO [root] [base.py  (base_get_text:52)] - 获取元素('xpath', '//form/div[4]/div/div')文本
+2022-01-15 16:45:21,400 INFO [root] [base.py  (base_find_element:27)] - 查找元素('xpath', '//form/div[4]/div/div')
+2022-01-15 16:45:21,426 ERROR [root] [test_register.py  (test_Register:46)] - <class 'AssertionError'>
