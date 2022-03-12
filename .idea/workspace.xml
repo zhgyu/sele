@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08c5150a-103d-4a3b-b450-834069bc6912" name="Default Changelist" comment="99">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="08c5150a-103d-4a3b-b450-834069bc6912" name="Default Changelist" comment="99" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,12 +19,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
-  <component name="JupyterTrust" id="9568fa87-d615-4ea4-8e76-bab40f5abb34" />
+  <component name="JupyterTrust" id="ee442cd9-1845-426e-b01d-132e567bd3ff" />
   <component name="ProjectId" id="23EfXdlZNSjMkIZTvQHusRidcEQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -217,6 +217,7 @@
       <workItem from="1646653379678" duration="950000" />
       <workItem from="1646895526931" duration="1272000" />
       <workItem from="1647065944399" duration="4381000" />
+      <workItem from="1647070433711" duration="194000" />
     </task>
     <servers />
   </component>
@@ -253,14 +254,14 @@
     </state>
     <state x="323" y="312" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1647070353620" />
     <state x="431" y="421" key="FileChooserDialogImpl/2560.0.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1641356781016" />
-    <state x="627" y="202" key="Github.ShareDialog" timestamp="1647070348218">
+    <state x="627" y="202" key="Github.ShareDialog" timestamp="1647070538347">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="627" y="202" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1647070348218" />
-    <state x="601" y="100" key="Github.UntrackedFilesDialog" timestamp="1647067607189">
+    <state x="627" y="202" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1647070538347" />
+    <state x="601" y="100" key="Github.UntrackedFilesDialog" timestamp="1647070548311">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="601" y="100" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1647067607189" />
+    <state x="601" y="100" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1647070548311" />
     <state width="2005" height="376" key="GridCell.Tab.0.bottom" timestamp="1642251390363">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -297,10 +298,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="376" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1642251390364" />
-    <state x="430" y="95" width="914" height="707" key="SettingsEditor" timestamp="1647069869652">
+    <state x="430" y="95" width="914" height="707" key="SettingsEditor" timestamp="1647070629235">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="430" y="95" width="914" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1647069869652" />
+    <state x="430" y="95" width="914" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1647070629235" />
     <state x="829" y="257" width="996" height="786" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1642228884064" />
     <state x="953" y="401" key="SettingsEditor/2560.0.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1641629340779" />
     <state x="817" y="414" key="scopes" timestamp="1642228376871">
